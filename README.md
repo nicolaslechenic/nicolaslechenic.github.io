@@ -1,2 +1,2 @@
-# nicolaslechenic.github.io
+# nicolaslechenic
 Site web

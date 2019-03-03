@@ -1,0 +1,5 @@
+node_modules/*
+dist/bundle.min.js
+logs
+*.log
+coverage
